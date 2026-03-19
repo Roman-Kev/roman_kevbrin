@@ -1,5 +1,5 @@
 # roman_kevbrin
-·Junior Backend Developer·Python·GO·
+* Junior Backend Developer * Python * GO *
 ## About Me
 
 I build backend projects in Python and Go. I enjoy writing clean, readable code, diving into system architecture, and shipping projects that actually work.
