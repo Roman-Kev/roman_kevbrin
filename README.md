@@ -1,5 +1,5 @@
 # I am Roman
-* Junior Backend Developer * Python
+* Junior Backend Developer
 * Python
 * GO
 
